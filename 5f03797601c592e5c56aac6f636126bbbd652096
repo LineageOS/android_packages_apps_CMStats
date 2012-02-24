@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX//93E\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-02-24T00:25:57Z",
+      "side": 1,
+      "message": "Shouldn\u0027t it be \u0027uniek ID-nummer\u0027?",
+      "revId": "5f03797601c592e5c56aac6f636126bbbd652096",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
